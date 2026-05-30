@@ -12,9 +12,11 @@ I work across voice recording, dialogue editing, vocal production, hybrid analog
 - Hybrid production using DAWs, analog outboard and desks
 - Translating creative briefs into concrete audio decisions
 
-## Featured Portfolio
+## AI Voice & Audio Engineering – Workflow Repository
 
-[AI Voice & Audio Engineering Portfolio](https://github.com/Kolokiez-Studio/ai-voice-audio-engineering-portfolio)
+[View Repository](https://github.com/Kolokiez-Studio/ai-voice-audio-engineering-portfolio)
+
+Technical notes on voice preparation, audio quality evaluation, client workflows and hybrid production approaches for AI-assisted voice work.
 
 ## Links
 
