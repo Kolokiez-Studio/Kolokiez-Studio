@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lukas Sebastian Kolodynski | Kolokiez Studio
 
-<!--
-**Kolokiez-Studio/Kolokiez-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Audio Engineer & Studio Owner based in Berlin, trained at the Abbey Road Institute with distinction.
 
-Here are some ideas to get you started:
+I work across voice recording, dialogue editing, vocal production, hybrid analog/digital workflows and AI-assisted voice production, with a strong focus on naturalness, clarity, performance nuance and client-ready delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Voice, dubbing and spoken-word production
+- Audio preparation for AI voice workflows
+- Voice quality evaluation and speech cleanup
+- Hybrid production using DAWs, analog outboard and desks
+- Translating creative briefs into concrete audio decisions
+
+## Featured Portfolio
+
+[AI Voice & Audio Engineering Portfolio](https://github.com/Kolokiez-Studio/ai-voice-audio-engineering-portfolio)
+
+## Links
+
+[Kolokiez Studio](https://kolokiez-studio.de)  
+Berlin, Germany
